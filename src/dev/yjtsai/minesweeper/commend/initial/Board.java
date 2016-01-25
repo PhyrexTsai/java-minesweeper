@@ -19,7 +19,7 @@ public class Board {
     
     private Integer width = 8;
     private Integer height = 8;
-    private Integer bombSize = 1;
+    private Integer bombSize = 10;
     private String[][] board;
     private String[][] bomb;
     private Boolean[][] done;
